@@ -22,5 +22,5 @@ It takes into consideration requirements research throughout the past two decade
 The paper approaches the role of business analysts by comparing it to the role of requirements engineers, particularly from the author’s own point of view considering his line of work.
 
 ### Case Study 2: What Is Design Thinking and Why Is It Important?
-The paper aims to synthetize the research on design thinking to allow for a better understanding of its characteristics and processes, the differences between novice and expert design thinkers and apply the findings from literature regarding its application to the educational system.
+The paper aims to synthesize the research on design thinking to allow for a better understanding of its characteristics and processes, the differences between novice and expert design thinkers and apply the findings from literature regarding its application to the educational system.
 Most importantly, the goal is to discuss the importance of design thinking in promoting students’ problem-solving skills in the 21st century.
