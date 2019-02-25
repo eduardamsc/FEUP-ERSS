@@ -5,7 +5,7 @@ Element | College e-mail
 --------|----------------
 Diogo Peixoto Pereira | up201504326@fe.up.pt
 Maria Eduarda Santos Cunha | up201506524@fe.up.pt
-Pedro Manuel Costa Miranda | up201506574
+Pedro Manuel Costa Miranda | up201506574@fe.up.pt
 
 Work developed for Software Systems' Requirements Engineering (ERSS).
 
