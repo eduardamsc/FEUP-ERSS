@@ -12,6 +12,8 @@ Work developed for Software Systems' Requirements Engineering (ERSS).
 ## Case Studies
 The following case studies consisted of papers or articles we must analyse, synthesise and reflect upon.
 
+Only case study 2 was analysed in group.
+
 note: Files p0 to p7 are the reading sheets corresponding to each case study.
 
 ### Case Study 0: Requirements in the 21st Century: Current Practice and Emerging Trends
