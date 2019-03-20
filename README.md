@@ -26,3 +26,5 @@ The paper approaches the field of design thinking and aims to synthesize the exi
 Most importantly, the goal is to discuss the importance of design thinking in promoting students’ problem-solving skills in the 21st century.
 
 ### Case Study 3: Agile Requirements Engineering Practices: An Empirical Study
+The paper approaches the theme of Requirements Engineering and Agile Methods application in requirements engineering.
+The main focus is to reach a conclusion on which requirements engineering practices agile developers actually follow and the benefits and challenges presented by those practices.
