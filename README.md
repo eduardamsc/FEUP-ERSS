@@ -32,6 +32,8 @@ The paper approaches the theme of Requirements Engineering and Agile Methods app
 The main focus is to reach a conclusion on which requirements engineering practices agile developers actually follow and the benefits and challenges presented by those practices.
 
 ### Case Study 4: Elicitation Technique Selection: How Do Experts Do It?
+The paper approaches the theme of requirements elicitation techniques.
+The main purpose is to understand and document how experts choose elicitation techniques in order to improve requirements elicitation practice and, consequently, increase the quality of future products to insure they meet the users’ needs.
 
 ### Case Study 5: What Stakeholders Will or Will Not Say: A Theoretical and Empirical Study of Topic Importance in Requirements Engineering Elicitation Interviews
 
