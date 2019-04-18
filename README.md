@@ -36,6 +36,7 @@ The paper approaches the theme of requirements elicitation techniques.
 The main purpose is to understand and document how experts choose elicitation techniques in order to improve requirements elicitation practice and, consequently, increase the quality of future products to insure they meet the users’ needs.
 
 ### Case Study 5: What Stakeholders Will or Will Not Say: A Theoretical and Empirical Study of Topic Importance in Requirements Engineering Elicitation Interviews
+The paper approaches the theme of Elicitation, under Requirements Engineering, as it strives to discuss the importance of distinguishing between the information stakeholders share explicitly during interviews and the information they keep implicit. In this line of thought, the authors aimed to create a list of relevant topics mapped by order of importance, known as the Elicitation Topic Map, to aid in the questions requirements engineers need to ask as to avoid missing important information in elicitation interviews.
 
 ### Case Study 6: Stimulating Stakeholders' Imagination: New Creativity Triggers for Eliciting Novel Requirements
 
