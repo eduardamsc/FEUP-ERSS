@@ -39,5 +39,6 @@ The main purpose is to understand and document how experts choose elicitation te
 The paper approaches the theme of Elicitation, under Requirements Engineering, as it strives to discuss the importance of distinguishing between the information stakeholders share explicitly during interviews and the information they keep implicit. In this line of thought, the authors aimed to create a list of relevant topics mapped by order of importance, known as the Elicitation Topic Map, to aid in the questions requirements engineers need to ask as to avoid missing important information in elicitation interviews.
 
 ### Case Study 6: Stimulating Stakeholders' Imagination: New Creativity Triggers for Eliciting Novel Requirements
+The paper approaches the theme of Creativity Triggers in Requirements Elicitation. It aims to provide empirical foundations for a more complete set of lightweight creativity triggers both stakeholders and engineers can use in order to generate new and useful requirements in a quick and simple way.
 
 ### Case Study 7: Organisation and Communication Problems in Automotive Requirements Engineering
