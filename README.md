@@ -42,3 +42,4 @@ The paper approaches the theme of Elicitation, under Requirements Engineering, a
 The paper approaches the theme of Creativity Triggers in Requirements Elicitation. It aims to provide empirical foundations for a more complete set of lightweight creativity triggers both stakeholders and engineers can use in order to generate new and useful requirements in a quick and simple way.
 
 ### Case Study 7: Organisation and Communication Problems in Automotive Requirements Engineering
+The paper approaches the theme of automotive requirements engineering. It aims to identify problems or challenges in automotive requirements engineering in terms of communication and organisation structure.
